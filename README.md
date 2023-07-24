@@ -5,7 +5,7 @@ Peki, bu uygulamaları "Python evreni araçlarını kullanarak" nasıl dış dü
 Çok sayıda Python aracı denedim, ama ilk sırada artık Kivy var. Şaka yapmıyorum:)
 
 Kivy Dersleri:
-https://github.com/companyakis/kivy/tree/main
+https://github.com/companyakis/kivy/
 
 AI Az kaldı!
 
