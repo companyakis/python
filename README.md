@@ -7,5 +7,4 @@ Peki, bu uygulamaları "Python evreni araçlarını kullanarak" nasıl dış dü
 Kivy Dersleri:
 https://github.com/companyakis/kivy/
 
-AI Az kaldı!
-
+AI mı? Az kaldı!
