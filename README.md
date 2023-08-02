@@ -1,3 +1,4 @@
 Python AI uygulamaları
 
-AI mı? Az kaldı!
+Deep learning intro:
+https://github.com/companyakis/dl-intro
